@@ -11,7 +11,7 @@ The Allora MCP server allows AI systems and applications to access Allora predic
 ## Prerequisites
 
 - Node.js 18 or higher
-- An Allora API key (sign up at [alloralabs.com](https://alloralabs.com))
+- An Allora API key (https://docs.allora.network/devs/consumers/allora-api-endpoint#obtaining-an-api-key))
 
 ## Setup
 
